@@ -1,3 +1,3 @@
 # pigu-game
 
-[Link here](https://alamin1097.github.io/pigu-game/)
+[Click here to play!](https://alamin1097.github.io/pigu-game/)
